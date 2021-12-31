@@ -3,7 +3,7 @@ import TextSection from "./TextSection";
 
 const Specs = () => {
     return (
-        <section className="mt-28 w-[85%] max-w-3xl mx-auto ">
+        <section className="mt-28 w-[85%] max-w-4xl mx-auto ">
             <div className="text-center lg:text-lg">
                 <TextSection
                     heading="Supercharge your workflow"
